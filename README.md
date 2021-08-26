@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sepanta Moghaddasi.
+- 👀 I’m interested in programming (Python, C++, C, JavaScript).
+- 🌱 I’m currently learning Python and C++.
+- 💞️ I’m looking to collaborate on different projecta.
+- 📫 How to reach me <@sepanta.mo2020@gmail.com> and my github account.
